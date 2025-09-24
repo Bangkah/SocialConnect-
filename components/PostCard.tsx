@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { View, Text, Image, TouchableOpacity, StyleSheet, Dimensions } from 'react-native';
-import { Heart, MessageCircle, Share, MoreHorizontal } from 'lucide-react-native';
+import { Heart, MessageCircle, Share, MoveHorizontal as MoreHorizontal } from 'lucide-react-native';
 import { Post } from '@/types';
 import { formatTimeAgo } from '@/utils/dateUtils';
 
