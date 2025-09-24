@@ -143,7 +143,7 @@ const handleLike = (postId: string) => {
 
 1. **Clone repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Bangkah/SocialConnect-.git
 cd social-media-app
 ```
 
