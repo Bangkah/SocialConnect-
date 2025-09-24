@@ -348,7 +348,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jika ada pertanyaan atau issue:
 - Create GitHub issue
-- Email: support@socialconnect.app
+- Email: mdhyaulatha@gmail.com
 - Documentation: [docs.socialconnect.app](https://docs.socialconnect.app)
 
 ---
